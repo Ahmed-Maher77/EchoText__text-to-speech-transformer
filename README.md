@@ -17,7 +17,7 @@ It features a **glass-morphism UI**, smooth animations, responsive design, and p
 ---
 
 ## 🌐 Demo (Live Preview)
-**👉 View Live Demo:** []()  
+**👉 View Live Demo:** [https://ahmed-maher77.github.io/EchoText__text-to-speech-transformer/](https://ahmed-maher77.github.io/EchoText__text-to-speech-transformer/)  
 
 ---
 
@@ -38,8 +38,10 @@ It features a **glass-morphism UI**, smooth animations, responsive design, and p
 
 ---
 
-## 👀 Website Preview
-![Website Preview](#)  
+## 👀 Website Preview:
+<a href="https://ahmed-maher77.github.io/EchoText__text-to-speech-transformer/" title="demo">
+  <img src="https://github.com/user-attachments/assets/0d9f71eb-c714-4c28-9de1-3e83579cc14f" alt="website preview - UI Mockup" width="400">
+</a>
 
 ---
 
